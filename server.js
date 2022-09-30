@@ -1,3 +1,14 @@
+/*********************************************************************************
+*  WEB322 – Assignment 02
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source 
+*  (including 3rd party web sites) or distributed to other students.
+* 
+*  Name: Asim Naveed Student ID: 141631192 Date: 29 september
+*
+*  Online (Cyclic) Link: 
+*
+********************************************************************************/ 
+
 const HTTP_PORT = process.env.PORT || 9080;
 
 const express = require('express');
